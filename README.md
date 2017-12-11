@@ -1,6 +1,8 @@
 Hello Lorem Ipsum
 Hola ludwk123
 
+Test merge conflict
+
 Hello ludwk123
 
 # This is readme file
