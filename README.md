@@ -1,4 +1,5 @@
 Hello Lorem Ipsum
+
 Hola ludwk123
 
 Test merge conflict
